@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "Data Serializer"
+    },
+    {
+      "name": "module_desc",
+      "value": "Wearable health data serialization codelab"
+    },
+    {
+      "name": "ability_desc",
+      "value": "Data serializer entry ability"
+    }
+  ]
+}

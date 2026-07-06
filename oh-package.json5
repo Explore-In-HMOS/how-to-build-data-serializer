@@ -1,0 +1,7 @@
+{
+  "modelVersion": "5.0.0",
+  "description": "HarmonyOS wearable codelab: health data serialization toolkit",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {}
+}

@@ -1,0 +1,1 @@
+# Obfuscation is disabled for this codelab to keep the build simple and readable.
